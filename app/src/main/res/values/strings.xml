@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ektaara</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="facebook_app_id">190685194626894</string>
+    <string name="title_activity_music_player">MusicPlayer</string>
+</resources>
